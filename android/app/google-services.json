@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227889236708",
+    "project_id": "flutter-auth-c8cc0",
+    "storage_bucket": "flutter-auth-c8cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227889236708:android:a1445222f34b0986de7af1",
+        "android_client_info": {
+          "package_name": "com.example.exerciseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx399wutkzFviSfIP-BMVrMHHpfnHF56M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
